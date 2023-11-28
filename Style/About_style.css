@@ -1,0 +1,32 @@
+#body{
+    background-image: linear-gradient(to right,#00008B , #002244);
+}
+.logo{
+    margin-left: 4%;
+    color:#ffc40c;
+}
+#color-yellow{
+    color: #ffc40c;
+}
+
+.menu-colour{
+    color: white !important;
+}
+#navbar-with{
+    height: 60px;
+}
+.manu-item-color-change{
+    color:#ffc40c !important;
+}
+.navbar {
+    --bs-navbar-nav-link-padding-x: 1.5rem !important;
+}
+.tital{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.navbar {
+    --bs-navbar-nav-link-padding-x: 1.5rem !important;
+}
